@@ -1,0 +1,207 @@
+{
+  "chants": [
+    {
+      "id": "tiratna_vandana",
+      "title": "Tiratna Vandana",
+      "audio_file": "res://Resources/Audio/tiratna.ogg",
+      "verses": [
+        {
+          "id": 0,
+          "title": "Verse 1",
+          "start_time": 34.0,
+          "end_time": 75.0,
+          "text": "Namo tassa bhagavato arahato\nsammāsaṃbuddhassa\nNamo tassa bhagavato arahato\nsammāsaṃbuddhassa\nNamo tassa bhagavato arahato\nsammāsaṃbuddhassa"
+        },
+        {
+          "id": 1,
+          "title": "Verse 2",
+          "start_time": 75.0,
+          "end_time": 113.0,
+          "text": "Iti'pi so bhagavā arahaṃ sammā-sambuddho\nvijjā-carana sampanno sugato\nloka-vidū, anuttaro purisa-dhamma-sāratī\nsatthā deva-manussānaṃ\nbuddho bhagavā ti"
+        },
+        {
+          "id": 2,
+          "title": "Verse 3",
+          "start_time": 113.0,
+          "end_time": 163.0,
+          "text": "Buddham jīvita-pariyantaṃ saraṇaṃ gacchāmi\nYe ca Buddhā atītā ca\nYe ca Buddhā anāgatā\nPaccuppannā ca ye Buddhā\nAhaṃ vandāmi sabbadā\nN'atthi me saraṇaṃ aññaṃ\nBuddho me saraṇaṃ varaṃ\nEtena sacca-vajjena\nHotu me jaya-maṅgalaṃ"
+        },
+        {
+          "id": 3,
+          "title": "Verse 4",
+          "start_time": 163.0,
+          "end_time": 188.0,
+          "text": "Svākkhāto bhagavatā Dhammo\nsandiṭṭhiko akāliko\nehipassiko\nopanayiko paccataṃ\nveditabbo viññūhī 'ti"
+        },
+        {
+          "id": 4,
+          "title": "Verse 5",
+          "start_time": 188.0,
+          "end_time": 239.0,
+          "text": "Dhammaṃ jīvita-pariyantaṃ saraṇaṃ gacchāmi\nYe ca Dhammā atītā ca\nYe ca Dhammā anāgatā\nPaccuppannā ca ye Dhammā\nAhaṃ vandāmi sabbadā\nN'atthi me saraṇaṃ aññaṃ\nDhammo me saraṇaṃ varaṃ\nEtena sacca-vajjena\nHotu me jaya-maṅgalaṃ"
+        },
+        {
+          "id": 5,
+          "title": "Verse 6",
+          "start_time": 239.0,
+          "end_time": 275.0,
+          "text": "Supaṭipanno bhagavato sāvakasaṅgho\nujupatipanno bhagavato sāvakasaṅgho\nñāyapaṭipanno bhagavato sāvakasaṅgho\nsāmīcipaṭipanno bhagavato sāvakasaṅgho"
+        },
+        {
+          "id": 6,
+          "title": "Verse 7",
+          "start_time": 275.0,
+          "end_time": 313.0,
+          "text": "yadidaṃ cattāri purisayugāni\naṭṭha purisapuggalā\nEsa bhagavato sāvakasaṅgho\nāhuneyyo, pāhuneyyo, dakkhineyyo\nañjalikaranīyo anuttaraṃ\npuññakkhettam lokassā 'ti"
+        },
+        {
+          "id": 7,
+          "title": "Verse 8",
+          "start_time": 313.0,
+          "end_time": 363.0,
+          "text": "Saṅghaṃ jīvita-pariyantaṃ saraṇaṃ gacchāmi\nYe ca Saṅghā atītā ca\nYe ca Saṅghā anāgatā\nPaccuppannā ca ye Saṅghā\nAhaṃ vandāmi sabbadā\nN'atthi me saraṇaṃ aññaṃ\nSaṅgho me saraṇaṃ varaṃ\nEtena sacca-vajjena\nHotu me jaya-maṅgalaṃ"
+        }
+      ]
+    },
+    {
+      "id": "heart_sutra_triratna",
+      "title": "Heart Sutra",
+      "audio_file": "res://Resources/Audio/heart_sutra.ogg",
+      "verses": [
+        {
+          "id": 0,
+          "start_time": 0.0,
+          "end_time": 19.4,
+          "title": "Verse 1",
+          "text": "The Bodhisattva of Compassion,\nWhen he meditated deeply,\nSaw the emptiness of all five skandhas\nAnd sundered the bonds that caused him suffering."
+        },
+        {
+          "id": 1,
+          "start_time": 19.4,
+          "end_time": 36.4,
+          "title": "Verse 2",
+          "text": "Here then,\nForm is no other than emptiness,\nEmptiness no other than form.\nForm is only emptiness,\nEmptiness only form."
+        },
+        {
+          "id": 2,
+          "start_time": 36.4,
+          "end_time": 46.6,
+          "title": "Verse 3",
+          "text": "Feeling, thought, and choice,\nConsciousness itself,\nAre the same as this."
+        },
+        {
+          "id": 3,
+          "start_time": 46.6,
+          "end_time": 62.5,
+          "title": "Verse 4",
+          "text": "All things are by nature void\nThey are not born or destroyed\nNor are they stained or pure\nNor do they wax or wane"
+        },
+        {
+          "id": 4,
+          "start_time": 62.5,
+          "end_time": 94.5,
+          "title": "Verse 5",
+          "text": "So, in emptiness, no form,\nNo feeling, thought, or choice,\nNor is there consciousness.\nNo eye, ear, nose, tongue, body, mind;\nNo colour, sound, smell, taste, touch,\nOr what the mind takes hold of,\nNor even act of sensing."
+        },
+        {
+          "id": 5,
+          "start_time": 94.5,
+          "end_time": 108.2,
+          "title": "Verse 6",
+          "text": "No ignorance or end of it,\nNor all that comes of ignorance;\nNo withering, no death,\nNo end of them."
+        },
+        {
+          "id": 6,
+          "start_time": 108.2,
+          "end_time": 124.7,
+          "title": "Verse 7",
+          "text": "Nor is there pain, or cause of pain,\nOr cease in pain, or noble path\nTo lead from pain;\nNot even wisdom to attain!\nAttainment too is emptiness."
+        },
+        {
+          "id": 7,
+          "start_time": 124.7,
+          "end_time": 145.7,
+          "title": "Verse 8",
+          "text": "So know that the Bodhisattva\nHolding to nothing whatever,\nBut dwelling in Prajna wisdom,\nIs freed of delusive hindrance,\nRid of the fear bred by it,\nAnd reaches clearest Nirvana."
+        },
+        {
+          "id": 8,
+          "start_time": 145.7,
+          "end_time": 159.6,
+          "title": "Verse 9",
+          "text": "All Buddhas of past and present,\nBuddhas of future time,\nUsing this Prajna wisdom,\nCome to full and perfect vision."
+        },
+        {
+          "id": 9,
+          "start_time": 159.6,
+          "end_time": 176.7,
+          "title": "Verse 10",
+          "text": "Hear then the great dharani,\nThe radiant peerless mantra,\nThe Prajnaparamita\nWhose words allay all pain;\nHear and believe its truth!"
+        },
+        {
+          "id": 10,
+          "start_time": 176.7,
+          "end_time": 216.7,
+          "title": "Verse 11",
+          "text": "Gate Gate Paragate Parasamgate Bodhi Svaha\nGate Gate Paragate Parasamgate Bodhi Svaha\nGate Gate Paragate Parasamgate Bodhi Svaha"
+        }
+      ]
+    },
+    {
+      "id": "last_vandana",
+      "title": "Last Vandana",
+      "audio_file": "res://Resources/Audio/last_vandana.ogg",
+      "verses": [
+        {
+          "id": 0,
+          "title": "Dhp 183",
+          "start_time": 0.0,
+          "end_time": 20.0,
+          "text": "Sabbapāpassa akaraṇaṁ,\nkusalassa upasampadā,\nsacittapariyodapanaṁ —\netaṁ buddhāna sāsanaṁ."
+        },
+        {
+          "id": 1,
+          "title": "Dhp 168–169",
+          "start_time": 20.0,
+          "end_time": 38.0,
+          "text": "Dhammaṁ care sucaritaṁ,\nna naṁ duccaritaṁ care;\ndhammacārī sukhaṁ seti,\nasmiṁ loke paraṁ hi ca."
+        },
+        {
+          "id": 2,
+          "title": "Dhp 259",
+          "start_time": 38.0,
+          "end_time": 69.0,
+          "text": "Na tāvatā dhammadharo,\nyāvatā bahu bhāsati;\nyo ca appampi sutvāna,\ndhammaṁ kāyena passati,\nsa ve dhammadharo hoti,\nyo dhammaṁ nappamajjati."
+        },
+        {
+          "id": 3,
+          "title": "Jayamaṅgala — Buddha",
+          "start_time": 69.0,
+          "end_time": 87.0,
+          "text": "N’atthi me saraṇaṁ aññaṁ,\nBuddho me saraṇaṁ varaṁ;\netena saccavajjena,\nhotu me jayamaṅgalaṁ."
+        },
+        {
+          "id": 4,
+          "title": "Jayamaṅgala — Dhamma",
+          "start_time": 87.0,
+          "end_time": 105.0,
+          "text": "N’atthi me saraṇaṁ aññaṁ,\nDhammo me saraṇaṁ varaṁ;\netena saccavajjena,\nhotu me jayamaṅgalaṁ."
+        },
+        {
+          "id": 5,
+          "title": "Jayamaṅgala — Saṅgha",
+          "start_time": 105.0,
+          "end_time": 123.0,
+          "text": "N’atthi me saraṇaṁ aññaṁ,\nSaṅgho me saraṇaṁ varaṁ;\netena saccavajjena,\nhotu me jayamaṅgalaṁ."
+        },
+        {
+          "id": 6,
+          "title": "Salutations",
+          "start_time": 123.0,
+          "end_time": 147.0,
+          "text": "Namo Buddhāya.\nNamo Dhammāya.\nNamo Saṅghāya.\nSādhu, sādhu, sādhu."
+        }
+      ]
+    }
+  ]
+}
