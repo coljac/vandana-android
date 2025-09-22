@@ -126,10 +126,8 @@ private fun AppRoot() {
                             Modifier
                                 .fillMaxWidth()
                                 .clickable {
-                                    if (!selection.contains(index)) {
-                                        selection = (selection + index).toSortedSet()
-                                        playerController.setSelection(selection.toList())
-                                    }
+                                    selection = (selection + index).toSortedSet()
+                                    playerController.setSelection(selection.toList())
                                     playerController.jumpToVerse(index)
                                 }
                                 .padding(4.dp),
@@ -157,10 +155,8 @@ private fun AppRoot() {
                             Modifier
                                 .fillMaxWidth()
                                 .clickable {
-                                    if (!selection.contains(index)) {
-                                        selection = (selection + index).toSortedSet()
-                                        playerController.setSelection(selection.toList())
-                                    }
+                                    selection = (selection + index).toSortedSet()
+                                    playerController.setSelection(selection.toList())
                                     playerController.jumpToVerse(index)
                                 }
                                 .padding(4.dp),
@@ -217,7 +213,8 @@ private fun ScrollingVerse(
     val lines = remember(currentText) { currentText.split("\n") }
     val target = ((progress * (lines.size).coerceAtLeast(1)).toInt().coerceIn(0, (lines.size - 1).coerceAtLeast(0)))
 
-    Column(modifier, verticalArrangement = Arrangement.Center) {
+    Box(modifier, contentAlignment = Alignment.Center) {
+        Column(verticalArrangement = Arrangement.Center) {
         if (prev != null) {
             Text(
                 prev,
@@ -243,6 +240,7 @@ private fun ScrollingVerse(
                 style = MaterialTheme.typography.bodyMedium,
                 color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
             )
+        }
         }
     }
 }

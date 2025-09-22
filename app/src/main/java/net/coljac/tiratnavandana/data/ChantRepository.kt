@@ -36,7 +36,7 @@ class ChantRepository(private val context: Context) {
             list += Chant(
                 id = c.getString("id"),
                 title = c.getString("title"),
-                audioFile = preferAac(audioPath),
+                audioFile = audioPath,
                 verses = verses
             )
         }

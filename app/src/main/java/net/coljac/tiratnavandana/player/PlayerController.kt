@@ -78,6 +78,7 @@ class PlayerController(
             val unclampedEnd = (verse.endTime * 1000).toLong().coerceAtLeast(startMs + 1)
             val endMs = unclampedEnd.coerceAtMost(durationMs - 1)
             MediaItem.Builder()
+                .setMediaId("${chant.id}#${verse.id}")
                 .setUri(uri)
                 .setMediaMetadata(
                     MediaMetadata.Builder()
